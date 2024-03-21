@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**Shreya6998/Shreya6998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+- 🌱 I’m currently learning DSA Basics, System Design & Front-end Basics.
+- 👯 I’m looking to collaborate on any backend projects in Java(preferrably Spring Boot or Quarkus) or in Python(Flask, Django).
+- 🤔 I’m looking for help with learning Front-end technologies like ReactJS, CSS and HTML.
+- ⚒️ Skills:
+    - Java Backend: *Spring Boot, Quarkus, Hibernate, Spring MVC*
+    - Python Backend: *Flask, SQLAlchemy, py-kafka, smtplib, pandas, flask-restful*
+    - Databases: *PostgreSQL & MongoDB*
+    - API: *RESTful API and gRPCs*
+    - Architecture: *Microservices* 
+    - Cloud: *AWS S3, Lambda*
+    - Tools: *Kafka, Maven, Nifi, Camunda*
+- 📫 How to reach me: DM me on [Linkedin](https://www.linkedin.com/in/shreyaghosh6998) or send me a [mail](shreya.ghosh.6998@gmail.com)
+- 😄 Pronouns: She/Her
+- ⚡ Hobbies: I love singing :) 
